@@ -1,0 +1,8 @@
+Y = func(X,3).
+false
+false
+X = Y.
+false
+operator expected
+false
+false

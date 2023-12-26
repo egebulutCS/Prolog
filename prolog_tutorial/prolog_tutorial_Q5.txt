@@ -1,0 +1,4 @@
+einstein
+4; einstein, edison, edison, colmeraurer
+smart_invention(Invention):- invented(Person,Invention), iq(Person,IQ), IQ > 160.
+_
